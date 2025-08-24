@@ -44,9 +44,9 @@ This project aims to contribute to **accessibility and inclusion**, providing a 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/usuario/repo.git
-   cd repo
-````
+   git clone https://github.com/CelebroPensante/detector-de-alfabeto-em-libras.git
+   cd detector-de-alfabeto-em-libras
+
 
 2. **Create a virtual environment (recommended)**
 
